@@ -1,3 +1,5 @@
+/* 색 1: 64E1A0
+/* 색 2: 64D2A0
 /* 색 밝게: 01DFA5
 /* 색 어둡게: 50C8AF
 
@@ -22,41 +24,41 @@ header #header-bar>.row{
     border-top:4px solid #50C8AF;
 }
 header #header-bar a.dropdown-toggle{
-  color:#색1;
+  color:#64E1A0;
 }
 header #header-bar #header-top-notice strong.notice-badge{
-  background:#색2;
+  background:#64D2A0;
 }
 
 
 /*검색 창*/
 header #right-search-form>#right-search-btn{
-  color:#색1;
+  color:#64E1A0;
 }
 header #right-search-form>input[type=text]{
-border-color:#색1;
+border-color:#64E1A0;
 }
 
 /*왼쪽 트게더 메뉴*/
 #main .menu-wrapper>.header{
-    background:색2;
+    background:64D2A0;
 }
 #main .menu-wrapper>a>em{
-    color:#색2 변형 (연하게);
+    color:#64D2B4;/*색2 변형*/
 }
 #main .menu-wrapper .spacer{
-    background:#색 연하게;
+    background:#AAF0B4/*색 연하게*/;
 }
 /*아래 유용한 링크 밑 네모칸 색상*/
 
 /*글쓰기 버튼*/
 .btn-primary{
-   background: #색1;
-   border-color: #색1;
+   background: #64E1A0;
+   border-color: #64E1A0;
  }
  .btn-primary:hover{
-   background: #색1;
-   border-color: #색1;
+   background: #64E1A0;
+   border-color: #64E1A0;
    /*나중에 버그 시 애니메이션으로 대체*/
  }
 
@@ -73,8 +75,8 @@ border-color:#색1;
  .pagination > .active > span,
  .pagination > .active > span:focus,
  .pagination > .active > span:hover{
-    background-color: #색1;
-    border-color: #색1;
+    background-color: #64E1A0;
+    border-color: #64E1A0;
   }
 
   /*본문:(게시글)*/
@@ -89,7 +91,7 @@ border-color:#색1;
 
   /*글쓴이:로그인*/
   #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span{
-      color:#색 진하고 연하게;
+      color:#78E6BE/*색 진하고 연하게*/;
   }
 
   /*게시글 본문 페이지*/
