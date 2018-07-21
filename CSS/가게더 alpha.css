@@ -1,7 +1,7 @@
 /* 색 1: 64E1A0
-/* 색 2: 64D2A0
-/* 색 밝게: 01DFA5
-/* 색 어둡게: 50C8AF
+/* 색 2: DCAA5A
+/* 색 밝게: 78FAA5
+/* 색 어둡게: 64C8B4
 /* 색상 추후 변경
 
 /* 트게더 로고 */
@@ -16,39 +16,39 @@ header .row>div:nth-child(1)>a img{
 
 /*뒷배경 색상*/
 html, body{
-  background-color:#2E2E2E;
+  background-color: #2E2E2E;
   height:auto;
 }
 
 /*헤더 바(로고 밑 최근... 칸)*/
 header #header-bar>.row{
-    border-top:4px solid #50C8AF;
+    border-top:4px solid #64C8B4;
 }
 header #header-bar a.dropdown-toggle{
-  color:#64E1A0;
+  color: #64E1A0;
 }
 header #header-bar #header-top-notice strong.notice-badge{
-  background:#64D2A0;
+  background: #DCAA5A;
 }
 
 
 /*검색 창*/
 header #right-search-form>#right-search-btn{
-  color:#64E1A0;
+  color: #64E1A0;
 }
 header #right-search-form>input[type=text]{
-border-color:#64E1A0;
+border-color: #64E1A0;
 }
 
 /*왼쪽 트게더 메뉴*/
 #main .menu-wrapper>.header{
-    background:64D2A0;
+    background: #DCAA5A;
 }
 #main .menu-wrapper>a>em{
-    color:#64D2B4;/*색2 변형*/
+    color: #64D2B4;/*색2 변형*/
 }
 #main .menu-wrapper .spacer{
-    background:#AAF0B4/*색 연하게*/;
+    background: #E6FFB4/*색 연하게*/;
 }
 /*아래 유용한 링크 밑 네모칸 색상*/
 
@@ -85,14 +85,14 @@ border-color:#64E1A0;
 
   /*카테고리 창*/
   #article-list #article-list-category{
-      border-top:3px #50C8AF;
-      background:#01DFA5;
+      border-top:3px #64C8B4;
+      background: #78FAA5;
       /*카테고리 각각 백그라운드 색*/
   }
 
   /*글쓴이:로그인*/
   #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span{
-      color:#78E6BE/*색 진하고 연하게*/;
+      color: #78E6BE/*색 진하고 연하게*/;
   }
 
   /*게시글 본문 페이지*/
