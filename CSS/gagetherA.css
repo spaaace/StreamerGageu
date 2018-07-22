@@ -94,11 +94,11 @@ header #right-search-form>input[type=text]{
   /*본문:(게시글)*/
   /*즐겨찾기 있는 칸*/
   #board-info #viewers-area #viewers:before{
-   content: "불꽃박스 ";
+   content: "불빠따 ";
    cursor: text;
   }
   #board-info #viewers-area #viewers:after{
-   content: "명";
+   content: "명 상시 대기중";
    cursor : text;
   }
   #board-info #board-info-bottom a{
