@@ -3,6 +3,7 @@
 /* 색 밝게: 78FAA5
 /* 색 어둡게: 64C8B4
 /* 색상 추후 변경
+/* 닉네임 및 최근칸 색 어둡게: 3CD296
 
 /* 트게더 로고 */
 header .row>div:nth-child(1)>a{
@@ -25,7 +26,7 @@ header #header-bar>.row{
     border-top:4px solid #64C8B4;
 }
 header #header-bar a.dropdown-toggle{
-  color: #64E1A0;
+  color: #3CD296;
 }
 header #header-bar #header-top-notice strong.notice-badge{
   background: #DCAA5A;
@@ -92,7 +93,7 @@ border-color: #64E1A0;
 
   /*글쓴이:로그인*/
   #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span{
-      color: #78E6BE/*색 진하고 연하게*/;
+      color: #3CD296/*색 진하고 연하게*/;
   }
 
   /*게시글 본문 페이지*/
