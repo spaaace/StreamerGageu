@@ -8,7 +8,8 @@
 /* 트게더 로고 */
 header .row>div:nth-child(1)>a{
   background-repeat:no-repeat;
-  display: block; height: 60px;
+  display: block;
+  height: 60px;
   background-image: url("https://spaaace.github.io/StreamerGageu/images/%EA%B0%80%EA%B2%8C%EB%8D%94%20%EB%A1%9C%EA%B3%A0(%EC%9E%84%EC%8B%9C).png");
 }
 header .row>div:nth-child(1)>a img{
@@ -29,7 +30,7 @@ header #header-bar>.row{
     border-right:0px;
 }
 header #header-bar a.dropdown-toggle{
-  color: #32C882;
+  color: #DCAA5A;
 }
 header #header-bar #header-top-notice strong.notice-badge{
   background: #DCAA5A;
@@ -91,6 +92,14 @@ header #right-search-form>input[type=text]{
 
   /*본문:(게시글)*/
   /*즐겨찾기 있는 칸*/
+  #board-info #viewers-area #viewers:before{
+   content: "불꽃박스 ";
+   cursor: text;
+  }
+  #board-info #viewers-area #viewers:after{
+   content: "명";
+   cursor : text;
+  }
   #board-info #board-info-bottom a{
     color:#32C882
   }
@@ -99,20 +108,23 @@ header #right-search-form>input[type=text]{
   /*카테고리 창*/
   #article-list #article-list-category{
       border-top:3px #64C8B4;
-      background: #32C882;
+      background: #32D296;
   }
   #article-list #article-list-category > a{
       display: inline-block;
       padding: 11px 16px;
-      background: #64E1A0;
+      background: #78F0B4;
       text-decoration: none;
       font-size: 12px;
       font-weight: bold;
   }
+  #article-list #article-list-category > a:hover{
+      background: #96FAC8
+  }
 
   /*글쓴이:로그인*/
   #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span{
-      color: #32C882/*색 진하고 연하게*/;
+      color: #32C882;
   }
 
   /*게시글 본문 페이지*/
