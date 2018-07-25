@@ -5,6 +5,12 @@
 /* 색상 추후 변경
 /* 닉네임 및 최근칸 색 어둡게: 32C882
 
+/*뒷배경 색상*/
+html, body{
+  background-color: #696969;
+  height:auto;
+}
+
 /* 트게더 로고 */
 header .row>div:nth-child(1)>a{
   background-repeat:no-repeat;
@@ -16,27 +22,6 @@ header .row>div:nth-child(1)>a img{
 	opacity: 0;
 }
 
-/*뒷배경 색상*/
-html, body{
-  background-color: #696969;
-  height:auto;
-}
-
-/*헤더 바(로고 밑 최근... 칸)*/
-header #header-bar>.row{
-    border-top:4px solid #64C8B4;
-    border-left:0px;
-    border-bottom:0px;
-    border-right:0px;
-}
-header #header-bar a.dropdown-toggle{
-  color: #B48232;
-}
-header #header-bar #header-top-notice strong.notice-badge{
-  background: #DCAA5A;
-}
-
-
 /*검색 창*/
 header #right-search-form>#right-search-btn{
   color: #64E1A0;
@@ -46,49 +31,35 @@ header #right-search-form>input[type=text]{
   border-width:5px;
 }
 
+/*헤더 바(로고 밑 최근... 칸)*/
+header #header-bar>.row{
+    border-top:4px solid #64C8B4;
+    border-left:0px;
+    border-bottom:1px;
+    border-right:1px;
+}
+header #header-bar a.dropdown-toggle{
+  color: #B48232;
+}
+header #header-bar #header-top-notice strong.notice-badge{
+  background: #DCAA5A;
+}
+
 /*왼쪽 트게더 메뉴*/
 #main .menu-wrapper{
-  border-right:0px;
-  border-bottom:0px;
+  border-right:1px;
+  border-bottom:1px;
 }
 #main .menu-wrapper>.header{
     background: #DCAA5A;
 }
-#main .menu-wrapper>a>em{
+#main .menu-wrapper>a>em, #main .menu-wrapper>a>i.fa.fa-square{
     color: #64D2B4;/*색2 변형*/
 }
 #main .menu-wrapper .spacer{
     background: #E6FFB4/*색 연하게*/;
 }
 /*아래 유용한 링크 밑 네모칸 색상*/
-
-/*글쓰기 버튼*/
-.btn-primary{
-   background: #64E1A0;
-   border-color: #64E1A0;
- }
- .btn-primary:hover{
-   background: #64E1A0;
-   border-color: #64E1A0;
-   /*나중에 버그 시 애니메이션으로 대체*/
- }
-
- /*페이지 넘김 버튼*/
- /*
- 호버 애니메이션
- .pagination > li > a:hover {
- animation: infinite
-}
- */
- .pagination > .active > a,
- .pagination > .active > a:focus,
- .pagination > .active > a:hover,
- .pagination > .active > span,
- .pagination > .active > span:focus,
- .pagination > .active > span:hover{
-    background-color: #64E1A0;
-    border-color: #64E1A0;
-  }
 
   /*본문:(게시글)*/
   /*즐겨찾기 있는 칸*/
@@ -104,7 +75,6 @@ header #right-search-form>input[type=text]{
     color:#32C882
   }
 
-
   /*카테고리 창*/
   #article-list #article-list-category{
       border-top:3px #64C8B4;
@@ -117,6 +87,9 @@ header #right-search-form>input[type=text]{
       text-decoration: none;
       font-size: 12px;
       font-weight: bold;
+  }
+  #article-list #article-list-category > a:active{
+    background-color: #78F0B4;
   }
   #article-list #article-list-category > a:hover{
       background: #96FAC8
@@ -136,3 +109,42 @@ header #right-search-form>input[type=text]{
    font-size: 11px;
    border-radius: 100px
   }
+  #article-list>.article-list-row>.item>.list-title>small.comment-count{
+    color: #32C882;
+  }
+
+   /*페이지 넘김 버튼*/
+   /*
+   호버 애니메이션
+   .pagination > li > a:hover {
+   animation: infinite
+  }
+   */
+   .pagination > .active > a,
+   .pagination > .active > a:focus,
+   .pagination > .active > a:hover,
+   .pagination > .active > span,
+   .pagination > .active > span:focus,
+   .pagination > .active > span:hover{
+      background-color: #64E1A0;
+      border-color: #64E1A0;
+    }
+   .pagination>li>a,
+   .pagination>li>a:focus,
+   .pagination>li>a:hover,
+   .pagination>li>span,
+   .pagination>li>span:focus,
+   .pagination>li>span:hover{
+     color: #32C882;
+   }
+
+  /*글쓰기 버튼*/
+  .btn-primary{
+     background: #64E1A0;
+     border-color: #64E1A0;
+   }
+   .btn-primary:hover{
+     background: #64E1A0;
+     border-color: #64E1A0;
+     /*나중에 버그 시 애니메이션으로 대체*/
+   }
