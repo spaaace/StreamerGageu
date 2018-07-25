@@ -88,8 +88,8 @@ header #header-bar #header-top-notice strong.notice-badge{
       font-size: 12px;
       font-weight: bold;
   }
-  #article-list #article-list-category > a:active{
-    background-color: #78F0B4;
+  #article-list #article-list-category > a.active{
+    background: #78F0B4;
   }
   #article-list #article-list-category > a:hover{
       background: #96FAC8
