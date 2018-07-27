@@ -13,3 +13,19 @@ font-weight:bold
 #article-list #article-list-category > a.active, #article-list #article-list-category>a:hover{
   background:#fff
 }
+
+
+#article-list #article-list-category{
+  border-top:0px solid #656565;
+  background:#e8e8e8
+}
+#article-list #article-list-category>a{
+  font-size:13px;
+  background:#ffffff;
+  border-bottom:3px solid
+}
+#article-list #article-list-category > a.active,#article-list #article-list-category>a:hover{
+  background:#656565;
+  color:#fff !important;
+  border-bottom:3px solid #333
+}

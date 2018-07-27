@@ -72,22 +72,23 @@ header #header-bar #header-top-notice strong.notice-badge{
 
   /*카테고리 창*/
   #article-list #article-list-category{
-      border-top:3px #64C8B4;
-      background: #32D296;
+      border-top:3px solid #64C8B4;
+      background: #464646;
   }
   #article-list #article-list-category > a{
-      display: inline-block;
-      padding: 11px 16px;
-      background: #78F0B4;
-      text-decoration: none;
-      font-size: 12px;
-      font-weight: bold;
+      background: #696969;
+      color: #fff !important;
+      border-bottom: 3px solid #333
   }
   #article-list #article-list-category > a.active{
-    background: #78F0B4;
+    background: #464646;
+    color: #fff !important;
+    border-bottom: 3px solid #333
   }
   #article-list #article-list-category > a:hover{
-      background: #96FAC8
+    background: #fff;
+    color: #fff !important;
+    border-bottom: 3px solid #333
   }
 
   /*글쓴이:로그인*/
