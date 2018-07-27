@@ -77,7 +77,6 @@ header #header-bar #header-top-notice strong.notice-badge{
   }
   #article-list #article-list-category > a{
       background: #696969;
-      color: #fff !important;
       border-bottom: 3px solid #333
   }
   #article-list #article-list-category > a.active{
@@ -87,7 +86,6 @@ header #header-bar #header-top-notice strong.notice-badge{
   }
   #article-list #article-list-category > a:hover{
     background: #fff;
-    color: #fff !important;
     border-bottom: 3px solid #333
   }
 
