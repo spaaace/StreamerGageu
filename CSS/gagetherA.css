@@ -77,12 +77,12 @@ header #header-bar #header-top-notice strong.notice-badge{
   }
   #article-list #article-list-category > a{
       background: #696969;
-      border-bottom: 3px solid
+      border-bottom: 3px solid;
   }
   #article-list #article-list-category > a.active, #article-list #article-list-category > a:hover{
     background: #464646;
     color: #fff !important;
-    border-bottom: 3px solid #333
+    border-bottom: 3px solid #333;
   }
 
   /*글쓴이:로그인*/
