@@ -76,7 +76,7 @@ header #header-bar #header-top-notice strong.notice-badge{
       background: #464646;
   }
   #article-list #article-list-category > a{
-      background: #696969;
+      background: #5A5A5A;
       border-bottom: 3px solid;
   }
   #article-list #article-list-category > a.active, #article-list #article-list-category > a:hover{
