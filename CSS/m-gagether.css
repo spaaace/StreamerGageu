@@ -2,13 +2,13 @@
 
 /*뒷배경*/
 #main-content, body, footer{
-  background: #F6E3CE !important;
+  background: #DCAA5A !important;
 }
 
 /*헤더 바*/
 header{
   border-bottom-color: #64C8B4 !important;
-  background: #F6E3CE !important;
+  background: #DCAA5A !important;
 }
 
 header > #header-area > a > h1{
@@ -18,4 +18,8 @@ header > #header-area > a > h1{
 
 header > #header-area > #header-bar-link{
   color: #64C8B4
+}
+
+header > #header-search-bar #header-search-btn{
+  color: #DCAA5A
 }
