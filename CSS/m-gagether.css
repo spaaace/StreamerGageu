@@ -1,1 +1,21 @@
 /*PC 색상 정리 후 시작*/
+
+/*뒷배경*/
+#main-content, body, footer{
+  background: #F6E3CE !important;
+}
+
+/*헤더 바*/
+header{
+  border-bottom-color: #64C8B4 !important;
+  background: #F6E3CE !important;
+}
+
+header > #header-area > a > h1{
+  background: url*( /*로고*/ ) no-reapeat;
+  background-size: 90px 32px;
+}
+
+header > #header-area > #header-bar-link{
+  color: #64C8B4
+}
