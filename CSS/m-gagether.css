@@ -17,9 +17,13 @@ header > #header-area > a > h1{
 }
 
 header > #header-area > #header-bar-link{
-  color: #64C8B4
+  color: #64C8B4;
 }
 
 header > #header-search-bar #header-search-btn{
-  color: #DCAA5A
+  color: #DCAA5A;
+}
+
+header > #header-search-bar #header-search-input{
+  border: 1px solid: #DCAA5A;
 }
