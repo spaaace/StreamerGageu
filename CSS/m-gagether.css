@@ -20,6 +20,10 @@ header > #header-area > #header-bar-link{
   color: #64E1A0;
 }
 
+header > #header-search-bar #header-close-search-btn{
+  color: #64E1A0;
+}
+
 header > #header-search-bar #header-search-input{
   border: 2px solid #64E1A0;
 }
@@ -31,7 +35,7 @@ header > #header-search-bar #header-search-btn{
 /*광고 칸*/
 #header-top-notice a{
   font-weight: bold;
-  color: #64E1A0;
+  color: #64C8B4;
 }
 
 #header-top-notice strong.notice-badge{
