@@ -1,7 +1,7 @@
 /*PC 색상 정리 후 시작*/
 
 /*뒷배경*/
-#main-content, body, footer{
+#main-content, body{
   background: #696969 !important;
 }
 
@@ -13,10 +13,10 @@ header{
 
 header > #header-area > a > h1{
   background: url*( /*로고*/ ) no-reapeat;
-  background-size: 90px 32px;
+  background-size: contain;
 }
 
-header > #header-area > #header-bar-link{
+header > #header-area > #header-search-link{
   color: #64E1A0;
 }
 
