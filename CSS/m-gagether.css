@@ -24,6 +24,13 @@ header > #header-search-bar #header-search-input{
   border: 2px solid #64E1A0;
 }
 
+/*네비게이터*/
+
+nav#nav > .nav-header{
+  background: #DCAA5A;
+  border-top: 2px solid #E6FFB4;
+}
+
 /*광고 칸*/
 #header-top-notice a{
   font-weight: bold;
