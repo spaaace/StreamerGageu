@@ -61,3 +61,7 @@ nav#nav > .nav-header{
   background: #464646;
   color: #fff !important;
 }
+
+#article-list #article-list-category{
+  border-top: 0px;
+}
