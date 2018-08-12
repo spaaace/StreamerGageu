@@ -25,7 +25,6 @@ header > #header-search-bar #header-search-input{
 }
 
 /*네비게이터*/
-
 nav#nav > .nav-header{
   background: #DCAA5A;
   border-top: 2px solid #E6FFB4;
@@ -39,4 +38,10 @@ nav#nav > .nav-header{
 
 #header-top-notice strong.notice-badge{
   background: #DCAA5A;
+}
+
+/*광고 아래*/
+#article-content-wrapper > .header{
+  background: #FAC878 !important;
+  border-top: 2px solid #DCAA5A;
 }
