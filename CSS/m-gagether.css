@@ -41,8 +41,9 @@ nav#nav > .nav-header{
 }
 
 /*광고 아래*/
-#board-info > h1{
+#board-info{
   background: #DCAA5A;
+  border-top: 3px solid #B48232;
 }
 
 /*카테고리 */
