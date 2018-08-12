@@ -45,3 +45,14 @@ nav#nav > .nav-header{
   background: #FAC878 !important;
   border-top: 2px solid #DCAA5A;
 }
+
+/*카테고리 */
+#article-list #article-list-category > a{
+  padding: 11px 12px;
+  background: #5A5A5A;
+}
+
+#article-list #article-list-category > a.active, #article-list #article-list-category > a.hover{
+  background: #464646;
+  color: #fff !important;
+}
