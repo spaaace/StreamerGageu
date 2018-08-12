@@ -46,6 +46,10 @@ nav#nav > .nav-header{
   border-top: 3px solid #B48232;
 }
 
+#board-info > a.board-right-menu{
+  color: #B48232;
+}
+
 /*카테고리 */
 #article-list #article-list-category > a{
   padding: 11px 12px;
