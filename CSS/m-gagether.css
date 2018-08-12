@@ -41,9 +41,8 @@ nav#nav > .nav-header{
 }
 
 /*광고 아래*/
-#article-content-wrapper > .header{
-  background: #FAC878 !important;
-  border-top: 2px solid #DCAA5A;
+#board-info > h1{
+  background: #DCAA5A;
 }
 
 /*카테고리 */
