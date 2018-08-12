@@ -63,6 +63,11 @@ nav#nav > .nav-header{
   color: #fff !important;
 }
 
+/*공지글 */
+#article-list > .article-list-row.notice{
+  background: #F0BE6E !important;
+}
+
 /*페이지 */
 .pagination > .active > a,
 .pagination > .active > a:focus,
