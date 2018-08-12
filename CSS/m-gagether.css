@@ -44,6 +44,7 @@ nav#nav > .nav-header{
 #board-info{
   background: #F0BE6E;
   border-top: 3px solid #B48232;
+  border-bottom: 0px;
 }
 
 #board-info > a.board-right-menu{
@@ -60,10 +61,6 @@ nav#nav > .nav-header{
 #article-list #article-list-category > a.active, #article-list #article-list-category > a.hover{
   background: #464646;
   color: #fff !important;
-}
-
-#article-list #article-list-category{
-  border-top: 0px;
 }
 
 /*페이지 */
