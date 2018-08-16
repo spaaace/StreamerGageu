@@ -60,7 +60,7 @@ nav#nav > .nav-header{
 #article-list #article-list-category > a{
   padding: 11px 12px;
   background: #5A5A5A;
-  border-bottom: 3px solid
+  border-bottom: 3px solid;
 }
 
 #article-list #article-list-category > a.active, #article-list #article-list-category > a.hover{
