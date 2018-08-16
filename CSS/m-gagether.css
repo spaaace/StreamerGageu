@@ -1,7 +1,7 @@
 /*PC 색상 정리 후 시작*/
 
 /*뒷배경*/
-#main-content, body{
+#main-content, body, footer{
   background: #696969 !important;
 }
 
