@@ -110,12 +110,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 /*게시글*/
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
-  background: #878787;
+  background: #BEBEBE;
 }
 
-#article-content-wrapper > .header{
+#article-content-wrapper > .footer{
   border-top, border-bottom: 2px solid #64C8B4;
-  background: #878787;
+  background: #BEBEBE;
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
