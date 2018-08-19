@@ -109,11 +109,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*게시글*/
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #32C882;
+  color: #1EB46E;
 }
 
 #article-reply-area > .header h5{
-  color: #32C882;
+  color: #1EB46E;
 }
 
 /*글쓴이:로그인*/
