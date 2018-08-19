@@ -124,14 +124,14 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #64C8B4;
+  color: #1EB46E;
 }
 
 #article-reply-area > .header h5{
   color: #1EB46E;
 }
 
-#article-reply-area > .fr-toolbar{
+.fr-toolbar{
   border-top: 5px solid #64C8B4;
 }
 
