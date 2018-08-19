@@ -12,6 +12,11 @@ html, body{
   height:auto;
 }
 
+/*그림자 */
+header #header-bar > .row, #main .menu-wrapper, #main #main-content > div.frame{
+  box-shadow: 4px 0px 10px;
+}
+
 /* 트게더 로고 */
 header .row > div:nth-child(1) > a{
   background-repeat:no-repeat;
