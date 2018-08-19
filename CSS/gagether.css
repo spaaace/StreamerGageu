@@ -135,10 +135,6 @@ header #header-bar #header-top-notice strong.notice-badge{
   border-top: 5px solid #64C8B4;
 }
 
-#article-reply-area > a{
-  color: #1EB46E;
-}
-
 /*글쓴이:로그인*/
 #article-list > .article-list-row > .item > .list-title > .list-writer.logged > span{
   color: #32C882;
