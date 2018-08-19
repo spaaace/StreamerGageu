@@ -1,7 +1,7 @@
 /*PC 색상 정리 후 시작*/
 
 /*뒷배경*/
-#main-content, body{
+#main-content, body, footer{
   background: #696969 !important;
 }
 
@@ -53,9 +53,14 @@ nav#nav > .nav-header{
 }
 
 /*카테고리 */
+#article-list #article-list-category{
+  background: #464646;
+}
+
 #article-list #article-list-category > a{
   padding: 11px 12px;
   background: #5A5A5A;
+  border-bottom: 3px solid;
 }
 
 #article-list #article-list-category > a.active, #article-list #article-list-category > a.hover{
