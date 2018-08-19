@@ -114,7 +114,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-content-wrapper > .footer{
-  border-top, border-bottom: 2px solid #64C8B4;
+  border-top: 2px solid #64C8B4;
+  border-bottom: 2px solid #64C8B4;
+  background: #BEBEBE;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header{
   background: #BEBEBE;
 }
 
@@ -123,6 +128,14 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-reply-area > .header h5{
+  color: #1EB46E;
+}
+
+#article-reply-area > .fr-toolbar{
+  border-top: 5px solid #64C8B4;
+}
+
+#article-reply-area > a{
   color: #1EB46E;
 }
 
