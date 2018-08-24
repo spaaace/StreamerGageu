@@ -117,8 +117,8 @@ nav#nav > .nav-header{
 .pagination > .active > span,
 .pagination > .active > span:focus,
 .pagination > .active > span:hover{
-  background-color: #64E1A0;
-  border-color: #64E1A0;
+  background-color: #F0BE6E;
+  border-color: #F0BE6E;
 }
 
 .pagination > li > a,
@@ -127,7 +127,7 @@ nav#nav > .nav-header{
 .pagination > li > span,
 .pagination > li > span:focus,
 .pagination > li > span:hover{
-  color: #32C882;
+  color: #F0BE6E;
 }
 
 /*글쓰기 버튼 */
