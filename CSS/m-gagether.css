@@ -86,6 +86,30 @@ nav#nav > .nav-header{
   color: #32C882;
 }
 
+/*게시글 */
+#article-content-wrapper > .header{
+  border-top: 2px solid #64C8B4;
+  background: #CDCDCD;
+}
+
+#article-content-wrapper > .footer{
+  border-top: 2px solid #64C8B4;
+  border-bottom: 2px solid #64C8B4;
+  background: #CDCDCD;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header{
+  background: #CDCDCD;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
+  color: #1EB46E;
+}
+
+#article-reply-area > .header h5{
+  color: #1EB46E;
+}
+
 /*페이지 */
 .pagination > .active > a,
 .pagination > .active > a:focus,
