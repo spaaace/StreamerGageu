@@ -105,3 +105,14 @@ nav#nav > .nav-header{
 .pagination > li > span:hover{
   color: #32C882;
 }
+
+/*글쓰기 버튼 */
+.btn-primary{
+  background: #64E1A0;
+  border-color: #64E1A0;
+}
+
+.btn-primary:hover{
+  background: #64E1A0;
+  border-color: #64E1A0;
+}
