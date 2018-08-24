@@ -107,6 +107,11 @@ header #header-bar #header-top-notice strong.notice-badge{
   border-bottom: 3px solid #333;
 }
 
+/*공지 */
+#article-list > .article-list-row.notice{
+  background-color: #DCAA5A;
+}
+
 /*게시글*/
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
