@@ -136,10 +136,6 @@ header #header-bar #header-top-notice strong.notice-badge{
   color: #1EB46E;
 }
 
-.fr-toolbar{
-  border-top: 5px solid #64C8B4;
-}
-
 /*글쓴이:로그인*/
 #article-list > .article-list-row > .item > .list-title > .list-writer.logged > span{
   color: #32C882;
