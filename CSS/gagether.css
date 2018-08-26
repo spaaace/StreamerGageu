@@ -37,7 +37,7 @@ header #right-search-form > #right-search-btn{
 
 header #right-search-form > input[type=text]{
   border-color: #64E1A0;
-  border-width:5px;
+  border-width:3px;
 }
 
 /*헤더 바(로고 밑 최근... 칸)*/
@@ -119,7 +119,7 @@ header #header-bar #header-top-notice strong.notice-badge{
   background-color: #DCAA5A;
 }
 
-#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged{
+#article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
   color: #fff;
 }
 

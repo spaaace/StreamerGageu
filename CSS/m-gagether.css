@@ -84,7 +84,7 @@ nav#nav > .nav-header{
   background: #F0BE6E !important;
 }
 
-#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged{
+#article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
   color: #fff;
 }
 
