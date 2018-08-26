@@ -78,6 +78,10 @@ nav#nav > .nav-header{
   background: #F0BE6E !important;
 }
 
+#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged > span{
+  color: #fff;
+}
+
 /*게시글 본문 */
 #article-list > .article-list-row > .item > a.list-title > small.comment-count{
   color: #32C882;
@@ -112,7 +116,7 @@ nav#nav > .nav-header{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #1EB46E;
+  color: #C89646;
 }
 
 #article-reply-area > .header h5{
