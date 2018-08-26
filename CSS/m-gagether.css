@@ -47,6 +47,11 @@ nav#nav > .nav-header{
   border-bottom: 0px;
 }
 
+#board-info > h1 > a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
 #board-info > a.board-right-menu{
   border: 0px;
   color: #B48232;
