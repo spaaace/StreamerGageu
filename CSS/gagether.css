@@ -117,11 +117,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*공지 */
 #article-list > .article-list-row.notice{
-  background-color: #DCAA5A;
+  background-color: #F0BE6E;
 }
 
 #article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
-  color: #fff;
+  color: #B48232;
 }
 
 /*게시글*/
@@ -145,7 +145,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #D2A050;
+  color: #B48232;
   font-weight: bold;
 }
 
@@ -155,7 +155,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*글쓴이:로그인*/
 #article-list > .article-list-row > .item > .list-title > .list-writer.logged > span{
-  color: #DCAA5A;
+  color: #B48232;
 }
 
 /*게시글 본문 페이지*/
