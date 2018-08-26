@@ -77,6 +77,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*본문:(게시글)*/
 /*즐겨찾기 있는 칸*/
+#board-info h1 > a{
+  text-decoration: none;
+  color: #DCAA5A;
+  font-weight: bold;
+}
+
 #board-info #viewers-area #viewers:before{
   content: "불빠따 ";
   cursor: text;
