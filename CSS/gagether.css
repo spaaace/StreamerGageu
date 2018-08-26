@@ -136,7 +136,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #1EB46E;
+  color: #DCAA5A;
 }
 
 #article-reply-area > .header h5{
@@ -145,7 +145,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*글쓴이:로그인*/
 #article-list > .article-list-row > .item > .list-title > .list-writer.logged > span{
-  color: #32C882;
+  color: #DCAA5A;
 }
 
 /*게시글 본문 페이지*/
