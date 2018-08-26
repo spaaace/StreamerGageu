@@ -17,17 +17,18 @@ header{
   background: #696969 !important;
 }
 
-header > #header-area > a > h1{
-  background: url*( /*로고*/ ) no-reapeat;
-  background-size: contain;
-}
-
 header > #header-area > #header-search-link, header > #header-area > #header-bar-link, header > #header-search-bar #header-close-search-btn, header > #header-search-bar #header-search-btn{
   color: #64E1A0;
 }
 
 header > #header-search-bar #header-search-input{
   border: 2px solid #64E1A0;
+}
+
+/*로고 */
+header > #header-area > a > h1{
+  background: url('https://spaaace.github.io/StreamerGageu/images/logo2.png') no-repeat;
+  background-size: 90px 36px;
 }
 
 /*네비게이터*/
