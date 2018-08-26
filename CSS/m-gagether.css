@@ -78,7 +78,7 @@ nav#nav > .nav-header{
   background: #F0BE6E !important;
 }
 
-#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged > span{
+#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged{
   color: #fff;
 }
 
