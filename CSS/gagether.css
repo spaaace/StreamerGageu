@@ -120,6 +120,10 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 /*게시글*/
+#article-info > h2{
+  font-weight: bold;
+}
+
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
   background: #CDCDCD;

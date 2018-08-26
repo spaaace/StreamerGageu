@@ -86,7 +86,11 @@ nav#nav > .nav-header{
   color: #C89646;
 }
 
-/*게시글 (수정 필요)
+/*게시글 (수정 필요)*/
+#article-info > h2{
+  font-weight: bold;
+}
+
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
   background: #CDCDCD;
@@ -109,7 +113,6 @@ nav#nav > .nav-header{
 #article-reply-area > .header h5{
   color: #1EB46E;
 }
-*/
 
 /*페이지 */
 .pagination > .active > a,
