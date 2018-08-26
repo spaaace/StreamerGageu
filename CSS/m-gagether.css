@@ -116,7 +116,8 @@ nav#nav > .nav-header{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #C89646;
+  font-weight: bold;
+  color: #D2A050;
 }
 
 #article-reply-area > .header h5{

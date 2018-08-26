@@ -119,6 +119,10 @@ header #header-bar #header-top-notice strong.notice-badge{
   background-color: #DCAA5A;
 }
 
+#article-list > .notice > .item > .list-time, #article-list > .notice > .item> .list-title > .list-writer.logged > span{
+  color: #fff;
+}
+
 /*게시글*/
 #article-info > h2{
   font-weight: bold;
@@ -140,7 +144,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
-  color: #C89646;
+  color: #D2A050;
+  font-weight: bold;
 }
 
 #article-reply-area > .header h5{
