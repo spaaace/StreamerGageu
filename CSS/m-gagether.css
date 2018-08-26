@@ -1,4 +1,11 @@
-/*PC 색상 정리 후 시작*/
+/*폰트 */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{
+  letter-spacing: -0.05em !important;
+  background: transparent;
+  font-family: 'Nanum Gothic', sans-serif;
+}
 
 /*뒷배경*/
 #main-content, body, footer{

@@ -1,10 +1,11 @@
-/* 뒷배경: #696969
-   연두색 밝게: #64E1A0
-   연두색 어둡게: #64C8B4
-   갈색 밝게: #DCAA5A
-   연두색 밝고 연하게: #64D2B4
-   초록색 연하게: #E6FFB4
-   연두색 연하고 어둡게: #32C882
+/*폰트 */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{
+  letter-spacing: -0.05em !important;
+  background: transparent;
+  font-family: 'Nanum Gothic', sans-serif;
+}
 
 /*뒷배경*/
 html, body{
