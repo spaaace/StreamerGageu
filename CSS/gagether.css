@@ -106,6 +106,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #article-list #article-list-category > a{
   background: #5A5A5A;
   border-bottom: 3px solid;
+  font-weight: bold;
 }
 
 #article-list #article-list-category > a.active, #article-list #article-list-category > a:hover{
