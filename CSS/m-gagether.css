@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 body{
-  letter-spacing: 0px !important;
+  letter-spacing: -0.05em !important;
   font-family: 'Nanum Gothic', sans-serif;
 }
 
