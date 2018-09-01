@@ -1,3 +1,6 @@
+64C8B4
+64E1A0
+
 /*폰트 */
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
@@ -42,7 +45,7 @@ header #right-search-form > input[type=text]{
 
 /*헤더 바(로고 밑 최근... 칸)*/
 header #header-bar > .row{
-  border-top:4px solid #64C8B4;
+  border-top:4px solid #64E1A0;
   border-left:0px;
   border-bottom:1px;
   border-right:1px;
@@ -104,7 +107,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*카테고리 창*/
 #article-list #article-list-category{
-  border-top:3px solid #64C8B4;
+  border-top:3px solid #64E1A0;
   background: #464646;
 }
 
