@@ -1,3 +1,10 @@
+/*폰트 */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{
+  letter-spacing: 0px !important;
+  font-family: 'Nanum Gothic', sans-serif;
+}
 
 /*뒷배경*/
 #main-content, body, footer{
