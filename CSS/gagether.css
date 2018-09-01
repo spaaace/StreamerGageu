@@ -9,7 +9,7 @@ body{
 /*뒷배경*/
 html, body{
   background-color: #696969;
-  height:auto;
+  height:auto !important;
 }
 
 /*그림자 */
