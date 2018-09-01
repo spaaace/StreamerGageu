@@ -69,6 +69,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 #main .menu-wrapper > a > em, #main .menu-wrapper > a > i.fa.fa-square{
   color: #64D2B4;
 }
+
+#main .menu-wrapper > a{
+  padding: 8px 22px 8px 11px;
+}
+
 #main .menu-wrapper .spacer{
   background: #E6FFB4;
 }
