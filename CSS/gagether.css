@@ -105,17 +105,17 @@ header #header-bar #header-top-notice strong.notice-badge{
 /*카테고리 창*/
 #article-list #article-list-category{
   border-top:3px solid #64C8B4;
-  background: #464646;
+  background: #242424;
 }
 
 #article-list #article-list-category > a{
-  background: #464646;
+  background: #242424;
   border-bottom: 3px solid;
   font-weight: bold;
 }
 
 #article-list #article-list-category > a.active, #article-list #article-list-category > a:hover{
-  background: #464646;
+  background: #242424;
   color: #fff !important;
   border-bottom: 3px solid #333;
 }
