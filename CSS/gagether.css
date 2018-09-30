@@ -56,6 +56,10 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 /*왼쪽 트게더 메뉴*/
+#main .menu-wrapper{
+  border-radius: 15px 5px;
+}
+
 #main .menu-wrapper > .header{
   background: #DCAA5A;
   border-radius: 15px 5px;
