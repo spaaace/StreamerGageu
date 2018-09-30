@@ -14,7 +14,7 @@ html, body{
 
 /*그림자 */
 header #header-bar > .row, #main .menu-wrapper, #main #main-content > div.frame, header #right-search-form > input[type=text]{
-  box-shadow: 4px 0px 5px;
+  box-shadow: 3px 0px 5px;
 }
 
 /* 트게더 로고 */
