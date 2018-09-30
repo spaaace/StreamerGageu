@@ -38,13 +38,13 @@ header #right-search-form > #right-search-btn{
 header #right-search-form > input[type=text]{
   border-color: #64C8B4;
   border-width: 3px;
-  border-radius: 20px 5px;
+  border-radius: 15px 5px;
 }
 
 /*헤더 바(로고 밑 최근... 칸)*/
 header #header-bar > .row{
   border-top: 4px solid #64C8B4;
-  border-radius: 20px 5px;
+  border-radius: 15px 5px;
 }
 
 header #header-bar a.dropdown-toggle{
@@ -56,12 +56,9 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 /*왼쪽 트게더 메뉴*/
-#main .menu-wrapper {
-  border-radius: 20px 5px;
-}
-
 #main .menu-wrapper > .header{
   background: #DCAA5A;
+  border-radius: 15px 5px;
 }
 
 #main .menu-wrapper > a > em, #main .menu-wrapper > a > i.fa.fa-square{
@@ -78,7 +75,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*메인 콘텐트*/
 #main .frame {
-  border-radius: 20px 5px;
+  border-radius: 15px 5px;
   border: 0px;
 }
 
