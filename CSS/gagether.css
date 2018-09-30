@@ -71,6 +71,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #main .menu-wrapper .spacer{
   background: #E8FCFF;
+  height: 2px;
 }
 
 /*메인 콘텐트*/
