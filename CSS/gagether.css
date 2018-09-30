@@ -63,6 +63,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #main .menu-wrapper > .header{
   background: #DCAA5A;
   border-radius: 15px 5px;
+  border: 0px;
 }
 
 #main .menu-wrapper > a > em, #main .menu-wrapper > a > i.fa.fa-square{
