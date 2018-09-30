@@ -56,6 +56,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 /*왼쪽 트게더 메뉴*/
+#main .menu-wrapper{
+  border: 0px;
+  border-radius: 15px 5px;
+}
+
 #main .menu-wrapper a:nth-last-child(1){
   border-radius: 0px 0px 15px 5px;
 }
