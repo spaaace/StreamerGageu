@@ -37,15 +37,14 @@ header #right-search-form > #right-search-btn{
 
 header #right-search-form > input[type=text]{
   border-color: #64C8B4;
-  border-width:3px;
+  border-width: 3px;
+  border-radius: 20px 5px;
 }
 
 /*헤더 바(로고 밑 최근... 칸)*/
 header #header-bar > .row{
-  border-top:4px solid #64C8B4;
-  border-left:0px;
-  border-bottom:1px;
-  border-right:1px;
+  border-top: 4px solid #64C8B4;
+  border-radius: 20px 5px;
 }
 
 header #header-bar a.dropdown-toggle{
@@ -57,9 +56,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 /*왼쪽 트게더 메뉴*/
-#main .menu-wrapper{
-  border-right:1px;
-  border-bottom:1px;
+#main .menu-wrapper {
+  border-radius: 20px 5px;
 }
 
 #main .menu-wrapper > .header{
@@ -78,10 +76,11 @@ header #header-bar #header-top-notice strong.notice-badge{
   background: #E8FCFF;
 }
 
-/*아래 유용한 링크 밑 네모칸 색상*/
+/*메인 콘텐트*/
+#main .frame {
+  border-radius: 20px 5px;
+}
 
-/*본문:(게시글)*/
-/*즐겨찾기 있는 칸*/
 #board-info h1 > a{
   text-decoration: none;
   color: #DCAA5A;
