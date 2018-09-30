@@ -79,6 +79,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 /*메인 콘텐트*/
 #main .frame {
   border-radius: 20px 5px;
+  border: 0px;
 }
 
 #board-info h1 > a{
