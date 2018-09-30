@@ -67,7 +67,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #main .menu-wrapper > a > em, #main .menu-wrapper > a > i.fa.fa-square{
-  color: #64D2B4;
+  color: #64C8B4;
 }
 
 #main .menu-wrapper > a{
@@ -75,7 +75,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #main .menu-wrapper .spacer{
-  background: #E6FFB4;
+  background: #E8FCFF;
 }
 
 /*아래 유용한 링크 밑 네모칸 색상*/
