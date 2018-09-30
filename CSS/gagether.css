@@ -99,7 +99,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #board-info #board-info-bottom a{
-  color:#32C882
+  color:#77A3A8
 }
 
 /*카테고리 창*/
@@ -165,11 +165,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*게시글 본문 페이지*/
 #article-list > .article-list-row > .item > .list-header > span{
-  background-color: #32C882;
+  background-color: #77A3A8;
 }
 
 #article-list > .article-list-row > .item > .list-title > small.comment-count{
-  color: #32C882;
+  color: #77A3A8;
 }
 
 /*페이지 넘김 버튼*/
@@ -193,7 +193,7 @@ animation: infinite
 .pagination > li > span,
 .pagination > li > span:focus,
 .pagination > li > span:hover{
-  color: #32C882;
+  color: #77A3A8;
 }
 
 /*글쓰기 버튼*/
