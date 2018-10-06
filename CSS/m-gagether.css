@@ -48,7 +48,7 @@ nav#nav > .nav-header{
 
 /*광고 아래*/
 #board-info{
-  background: #F0BE6E;
+  background: #DCAA5A;
   border-top: 3px solid #8F6F3B;
   border-bottom: 0px;
 }
@@ -82,7 +82,7 @@ nav#nav > .nav-header{
 
 /*공지글 */
 #article-list > .article-list-row.notice{
-  background: #F0BE6E !important;
+  background: #DCAA5A !important;
 }
 
 #article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
@@ -102,11 +102,7 @@ nav#nav > .nav-header{
   color: #8F6F3B;
 }
 
-/*게시글 (수정 필요)*/
-#article-info > h2{
-  font-weight: bold;
-}
-
+/*게시글*/
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
   background: #E8FCFF;
