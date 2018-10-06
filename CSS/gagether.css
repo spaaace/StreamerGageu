@@ -191,8 +191,8 @@ animation: infinite
 .pagination > .active > span,
 .pagination > .active > span:focus,
 .pagination > .active > span:hover{
-  background-color: #64C8B4;
-  border-color: #64C8B4;
+  background-color: #DCAA5A;
+  border-color: #DCAA5A;
 }
 
 .pagination > li > a,
@@ -201,7 +201,7 @@ animation: infinite
 .pagination > li > span,
 .pagination > li > span:focus,
 .pagination > li > span:hover{
-  color: #77A3A8;
+  color: #8F6F3B;
 }
 
 /*글쓰기 버튼*/
