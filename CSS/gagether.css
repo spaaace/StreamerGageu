@@ -144,17 +144,17 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
-  background: #CDCDCD;
+  background: #77A3A8;
 }
 
 #article-content-wrapper > .footer{
   border-top: 2px solid #64C8B4;
   border-bottom: 2px solid #64C8B4;
-  background: #CDCDCD;
+  background: #77A3A8;
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header{
-  background: #CDCDCD;
+  background: #77A3A8;
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
