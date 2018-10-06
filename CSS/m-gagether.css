@@ -8,21 +8,21 @@ body{
 
 /*뒷배경*/
 #main-content, body, footer{
-  background: #696969 !important;
+  background: #DBDBDB !important;
 }
 
 /*헤더 바*/
 header{
   border-bottom: 3px solid #64C8B4 !important;
-  background: #696969 !important;
+  background: #DBDBDB !important;
 }
 
 header > #header-area > #header-search-link, header > #header-area > #header-bar-link, header > #header-search-bar #header-close-search-btn, header > #header-search-bar #header-search-btn{
-  color: #64E1A0;
+  color: #64C8B4;
 }
 
 header > #header-search-bar #header-search-input{
-  border: 2px solid #64E1A0;
+  border: 2px solid #64C8B4;
 }
 
 /*로고 */
@@ -34,7 +34,6 @@ header > #header-area > a > h1{
 /*네비게이터*/
 nav#nav > .nav-header{
   background: #DCAA5A;
-  border-top: 2px solid #C8E196;
 }
 
 /*광고 칸*/
@@ -50,7 +49,7 @@ nav#nav > .nav-header{
 /*광고 아래*/
 #board-info{
   background: #F0BE6E;
-  border-top: 3px solid #B48232;
+  border-top: 3px solid #8F6F3B;
   border-bottom: 0px;
 }
 
@@ -61,23 +60,23 @@ nav#nav > .nav-header{
 
 #board-info > a.board-right-menu{
   border: 0px;
-  color: #B48232;
+  color: #8F6F3B;
 }
 
 /*카테고리 */
 #article-list #article-list-category{
-  background: #464646;
+  background: #242424;
 }
 
 #article-list #article-list-category > a{
   padding: 11px 12px;
-  background: #5A5A5A;
+  background: #242424;
   border-bottom: 3px solid;
   font-weight: bold;
 }
 
 #article-list #article-list-category > a.active, #article-list #article-list-category > a.hover{
-  background: #464646;
+  background: #242424;
   color: #fff !important;
 }
 
@@ -87,20 +86,20 @@ nav#nav > .nav-header{
 }
 
 #article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
-  color: #B48232;
+  color: #8F6F3B;
 }
 
 /*게시글 본문 */
 #article-list > .article-list-row > .item > a.list-title > small.comment-count{
-  color: #32C882;
+  color: #77A3A8;
 }
 
 #article-list > .article-list-row > .item > .list-header > span{
-  background-color: #32C882;
+  background-color: #77A3A8;
 }
 
 #article-list > .article-list-row > .item > a.list-title > .list-writer.logged > span{
-  color: #C89646;
+  color: #8F6F3B;
 }
 
 /*게시글 (수정 필요)*/
@@ -110,17 +109,17 @@ nav#nav > .nav-header{
 
 #article-content-wrapper > .header{
   border-top: 2px solid #64C8B4;
-  background: #CDCDCD;
+  background: #E8FCFF;
 }
 
 #article-content-wrapper > .footer{
   border-top: 2px solid #64C8B4;
   border-bottom: 2px solid #64C8B4;
-  background: #CDCDCD;
+  background: #E8FCFF;
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header{
-  background: #CDCDCD;
+  background: #E8FCFF;
 }
 
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply > .reply-header > .reply-writer.logged{
@@ -154,11 +153,11 @@ nav#nav > .nav-header{
 
 /*글쓰기 버튼 */
 .btn-primary{
-  background: #64E1A0;
-  border-color: #64E1A0;
+  background: #64C8B4;
+  border-color: #64C8B4;
 }
 
 .btn-primary:hover{
-  background: #64E1A0;
-  border-color: #64E1A0;
+  background: #64C8B4;
+  border-color: #64C8B4;
 }
