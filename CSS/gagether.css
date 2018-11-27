@@ -130,7 +130,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*공지 */
 #article-list > .article-list-row.notice{
-  background-color: #FFE191;
+  background-color: #F0BE78;
 }
 
 #article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
