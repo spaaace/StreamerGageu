@@ -130,11 +130,27 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 /*공지 */
 #article-list > .article-list-row.notice{
-  background-color: #F0BE6E;
+  background-color: #FFE191;
 }
 
 #article-list > .notice > .item > .list-time, #article-list > .notice > .item > .list-title > small.comment-count, #article-list > .notice > .item > .list-title > .list-writer.logged > span{
   color: #8F6F3B;
+}
+
+#article-list > .notice > .item > .list-title{
+  font-weight: bold;
+}
+
+#article-list > .notice > .item > .list-title> a:visited{
+  color
+}
+
+#article-list > #article-list-row-13176931 > .item > .list-title > a:visited, #article-list > #article-list-row-9454566 > .item > .list-title > a:visited, #article-list > #article-list-row-9350908 > .item > .list-title > a:visited{
+  color: #000000 !important;
+}
+
+#article-list > #article-list-row-1759728 > .item > .list-title > a:visited, #article-list > #article-list-row-13859953 > .item > .list-title > a:visited{
+  color: #000000 !important;
 }
 
 /*게시글*/
