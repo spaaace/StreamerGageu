@@ -153,6 +153,12 @@ header #header-bar #header-top-notice strong.notice-badge{
   color: #000000 !important;
 }
 
+/*인기글*/
+
+#article-list > .article-list-row.hot{
+  background-color: #FFF7EA;
+}
+
 /*게시글*/
 #article-info > h2{
   font-weight: bold;
